@@ -1,7 +1,8 @@
 # **Evaluating Multi-threading Efficiency in C++ through Sorting Algorithm Performance Analysis**
 
+>  Developer:
+>
 >  [@Hongbo Wang](https://github.com/BOBWang1117)
->   
 
 ## **Hardware Environment:**
 
