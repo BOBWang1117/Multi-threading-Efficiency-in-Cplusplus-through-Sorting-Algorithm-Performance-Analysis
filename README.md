@@ -34,21 +34,4 @@
 
 - Description: 
 
-## **Install package:**
-
-- numpy: 1.24.3
-
-
-## **Run program:**
-
-Step 1: Creating testing datasets
-
-- 
-
-Step 2: Run *.cpp files
-
-- 
-
-Step 3: Plot the figure
-
-- 
+## **STILL WORKING ON:**
